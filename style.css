@@ -2,7 +2,6 @@ main {
     text-align: center;
     background-color: rgb(241, 241, 241);
     margin: 0 auto;
-
 }
 #img-div {
     background-color: white;
@@ -10,6 +9,7 @@ main {
 }
 #title {
     font-weight: bold;
+    padding: 20px 0 0 0;
     font-size: 40px;
 }
 #tribute-info {
