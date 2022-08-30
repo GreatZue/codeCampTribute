@@ -1,0 +1,18 @@
+main {
+    text-align: center;
+    background-color: rgb(241, 241, 241);
+    margin: 0 auto;
+
+}
+#img-div {
+    background-color: white;
+    margin: 3% 3%;
+}
+#title {
+    font-weight: bold;
+    font-size: 40px;
+}
+#tribute-info {
+    font-size: 15px;
+    font-weight: lighter;
+}
